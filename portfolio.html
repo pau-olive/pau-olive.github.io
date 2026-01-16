@@ -118,8 +118,10 @@ const username = "pau-olive";
 const grid = document.getElementById("portfolio-grid");
 
 // ⛔ repos que NO se muestran
-const hiddenRepos = ["pau-olive"];
-
+const hiddenRepos = [
+  "pau-olive",
+  "pau-olive.github.io"
+];
 fetch(`https://api.github.com/users/${username}/repos?per_page=100&sort=updated`)
   .then(res => res.json())
   .then(repos => {
