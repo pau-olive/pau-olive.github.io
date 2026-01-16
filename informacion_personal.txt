@@ -1,0 +1,119 @@
+INFORMACIÓN PERSONAL DE PAU OLIVÉ MORENO
+
+=====================================
+NOMBRE COMPLETO
+=====================================
+Pau Olivé Moreno
+
+=====================================
+DESCRIPCIÓN PROFESIONAL
+=====================================
+Estudiante de Administración de Sistemas Informáticos en Red (ASIR) con experiencia
+real en entornos IT profesionales y eventos tecnológicos de gran escala.
+Orientado a sistemas, cloud y ciberseguridad, con especial interés en servidores,
+redes, virtualización y automatización.
+
+=====================================
+FORMACIÓN ACADÉMICA
+=====================================
+- Sept 2025 - Actualidad: CFGS Admin. Sistemas Informáticos + Ciberseguridad (Escuela CEV)
+  Actualmente cursando el segundo año de especialización en Ciberseguridad.
+
+- Sept 2024 - Jun 2025: CFGS Admin. Sistemas Informáticos en Red (La Salle Gracia)
+  Administración de sistemas, servidores y redes informáticas.
+
+- Sept 2022 - Jun 2024: CFGM Microinformática y redes duales (La Salle Barceloneta)
+  Formación dual en microinformática y gestión de redes.
+
+- Sept 2017 - Jun 2022: ESO (La Salle Gracia)
+  Educación Secundaria Obligatoria.
+
+=====================================
+EXPERIENCIA LABORAL
+=====================================
+- Mayo 2023 - Actualidad: Responsable de IT (IT Renting Service)
+  - Recogida de ponencias y Técnico de sala.
+  - Gestión de almacén.
+  - Puesta a punto de equipos, servidores y espacios para eventos.
+
+- Ago 2024 - Nov 2024: Vendedor de Amazon (Autónomo)
+  - Gestión de inventario.
+  - Adaptabilidad tecnológica y ventas online.
+
+- Ene 2021 - Jul 2023: Comercial Energético (Enerluz)
+  - Preparación de escritos judiciales.
+  - Traducción a otros idiomas.
+
+- Mayo 2022 - Mayo 2023: Minería de Criptomonedas (Autónomo / Personal)
+  Configuración de hardware, mantenimiento de rigs de minería y gestión de activos digitales. Experiencia previa a IT Renting.
+
+=====================================
+CERTIFICACIONES
+=====================================
+- IT Specialist - Artificial Intelligence (Certiport, a Pearson VUE business)
+  Ver credencial: https://www.credly.com/badges/28fa5b4a-628b-4894-86cc-079df9b43d19/linked_in
+
+- CCNA – Cisco Certified Network Associate (Cisco Networking Academy)
+  En curso
+
+=====================================
+HABILIDADES PERSONALES
+=====================================
+- Comunicación: 90%
+- Resolutivo: 95%
+- Proactividad: 85%
+- Adaptabilidad: 90%
+
+=====================================
+HABILIDADES TÉCNICAS
+=====================================
+- Máquinas Virtuales: 97%
+- Soporte IT / Hardware: 90%
+- Redes / Ciberseguridad: 85%
+- SQL: 85%
+
+=====================================
+CONOCIMIENTOS
+=====================================
+- Sistemas y Servidores: Instalación y administración de sistemas Windows y Linux. Gestión de usuarios, servicios, copias de seguridad y resolución de incidencias en entornos reales.
+- Virtualización: Uso de máquinas virtuales para pruebas y entornos de aprendizaje. Conocimientos básicos en VirtualBox y VMware, orientados a sistemas y administración de servidores.
+- Ciberseguridad (Base): Fundamentos de seguridad, control de accesos, hardening básico, redes y buenas prácticas en infraestructuras IT.
+- Soporte IT en Eventos: Soporte técnico presencial en eventos tecnológicos. Puesta en marcha de equipos, asistencia a usuarios y resolución de incidencias in situ.
+
+
+
+=====================================
+COLABORACIONES
+=====================================
+- MWC
+- Oracle
+- Fira Barcelona
+- ITRS
+- Fluge
+- Rent
+- ISE
+- SEN
+- ICE
+
+=====================================
+DATOS CURIOSOS
+=====================================
+- Eventos IT: 40+
+- Equipos Configurados: 500+
+- Horas en Sistemas: 1500+
+- Aprendizaje Continuo: ∞
+
+=====================================
+INFORMACIÓN DE CONTACTO
+=====================================
+- Email: pauolivez@gmail.com
+- LinkedIn: https://www.linkedin.com/in/pauoliv%C3%A9/
+- GitHub: https://github.com/pau-olive
+
+=====================================
+TÍTULOS PROFESIONALES
+=====================================
+- Técnico de Sistemas
+- Administrador IT
+- Analista de Seguridad
+- SysAdmin
