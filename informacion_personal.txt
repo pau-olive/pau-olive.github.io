@@ -8,10 +8,11 @@ Pau Olivé Moreno
 =====================================
 DESCRIPCIÓN PROFESIONAL
 =====================================
-Estudiante de Administración de Sistemas Informáticos en Red (ASIR) con experiencia
-real en entornos IT profesionales y eventos tecnológicos de gran escala.
-Orientado a sistemas, cloud y ciberseguridad, con especial interés en servidores,
-redes, virtualización y automatización.
+Técnico en Administración de Sistemas Informáticos en Red (ASIR).
+Actualmente en Arkos, trabajando en cloud e inteligencia artificial: despliegue de
+infraestructura en la nube, integración de modelos de IA y automatización de procesos.
+Con experiencia previa real en entornos IT profesionales y eventos tecnológicos de
+gran escala, orientado a sistemas, cloud y ciberseguridad.
 
 =====================================
 FORMACIÓN ACADÉMICA
@@ -31,6 +32,11 @@ FORMACIÓN ACADÉMICA
 =====================================
 EXPERIENCIA LABORAL
 =====================================
+- Junio 2026 - Actualidad: Técnico de Cloud e Inteligencia Artificial (Arkos)
+  - Despliegue y administración de infraestructura en la nube.
+  - Integración de modelos de IA en los procesos internos.
+  - Automatización de flujos de datos y tareas recurrentes.
+
 - Mayo 2023 - Actualidad: Responsable de IT (IT Renting Service)
   - Recogida de ponencias y Técnico de sala.
   - Gestión de almacén.
@@ -71,6 +77,7 @@ HABILIDADES TÉCNICAS
 - Soporte IT / Hardware: 90%
 - Redes / Ciberseguridad: 85%
 - SQL: 85%
+- Cloud / Inteligencia Artificial: 85%
 
 =====================================
 CONOCIMIENTOS
@@ -79,6 +86,8 @@ CONOCIMIENTOS
 - Virtualización: Uso de máquinas virtuales para pruebas y entornos de aprendizaje. Conocimientos básicos en VirtualBox y VMware, orientados a sistemas y administración de servidores.
 - Ciberseguridad (Base): Fundamentos de seguridad, control de accesos, hardening básico, redes y buenas prácticas en infraestructuras IT.
 - Soporte IT en Eventos: Soporte técnico presencial en eventos tecnológicos. Puesta en marcha de equipos, asistencia a usuarios y resolución de incidencias in situ.
+- Cloud: Despliegue y administración de infraestructura en la nube: servidores, contenedores y servicios en producción, con monitorización y mantenimiento continuo.
+- Inteligencia Artificial: Integración de modelos de IA en procesos internos y automatización de flujos de datos y tareas recurrentes con Python y Node.js.
 
 
 
@@ -114,6 +123,7 @@ INFORMACIÓN DE CONTACTO
 TÍTULOS PROFESIONALES
 =====================================
 - Técnico de Sistemas
+- Técnico Cloud e IA
 - Administrador IT
 - Analista de Seguridad
 - SysAdmin
