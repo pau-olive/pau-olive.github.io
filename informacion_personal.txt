@@ -56,8 +56,52 @@ EXPERIENCIA LABORAL
 =====================================
 CERTIFICACIONES
 =====================================
+- IT Specialist - Python (INF-303) (Certiport / PearsonVUE)
+  Agosto 2026 · Exp. Agosto 2031
+
+- Cisco Certified Support Technician Cybersecurity (CCST Cybersecurity) (Cisco)
+  Junio 2026 · Exp. Junio 2031
+  Ver credencial: https://www.credly.com/badges/f2ab7e63-18ea-4f28-864b-0ac4bc4e0bdd/linked_in_profile
+
+- PMI Project Management Ready™ (Project Management Institute)
+  Junio 2026 · Exp. Junio 2031
+  Ver credencial: https://www.credly.com/badges/ae79983a-3a83-49a1-9ab6-8dc3c56011e4/linked_in_profile
+
+- IT Specialist - Cloud Computing (Certiport, a Pearson VUE business)
+  Junio 2026 · Exp. Junio 2031
+  Ver credencial: https://www.credly.com/badges/c081ca58-a388-415f-8382-a07d68e249da/linked_in_profile
+
+- Network Security Support Technician (Certiport, a Pearson VUE business)
+  Junio 2026 · Exp. Junio 2031
+  Ver credencial: https://www.credly.com/badges/2b169e7a-59a2-4922-a680-789c6f26856e/linked_in_profile
+
+- IT Specialist - Software Development (Certiport, a Pearson VUE business)
+  Junio 2026 · Exp. Junio 2031
+  Ver credencial: https://www.credly.com/badges/24bb9ee2-3bec-4aad-9434-dde73a1b4a87/linked_in_profile
+
+- Cisco Certified Support Technician Networking (CCST Networking) (Cisco)
+  Marzo 2026 · Exp. Marzo 2031
+  Ver credencial: https://www.credly.com/badges/c030a226-c629-439b-a3b0-f3bf6365d210/linked_in_profile
+
+- IT Specialist - Networking (Pearson)
+  Marzo 2026 · Exp. Marzo 2031
+  Ver credencial: https://www.credly.com/badges/5e45ea95-f609-4005-9ad3-d821f1175fcd/linked_in_profile
+
+- IT Specialist - Device Configuration and Management (Pearson)
+  Marzo 2026 · Exp. Marzo 2031
+  Ver credencial: https://www.credly.com/badges/28610dea-299e-498f-a0ab-24c89b8bff37/linked_in_profile
+
+- IT Specialist - Databases (Pearson)
+  Marzo 2026 · Exp. Marzo 2031
+  Ver credencial: https://www.credly.com/badges/7623d52b-3228-4fc8-870e-85b47b0c1909/linked_in_profile
+
+- Cisco Certified Support Technician IT Support (CCST IT Support) (Cisco)
+  Marzo 2026 · Exp. Marzo 2031
+  Ver credencial: https://www.credly.com/badges/928d4a42-21d1-457f-a9bb-7d530c825f8d/linked_in_profile
+
 - IT Specialist - Artificial Intelligence (Certiport, a Pearson VUE business)
-  Ver credencial: https://www.credly.com/badges/28fa5b4a-628b-4894-86cc-079df9b43d19/linked_in
+  Diciembre 2025 · Exp. Diciembre 2030
+  Ver credencial: https://www.credly.com/badges/28fa5b4a-628b-4894-86cc-079df9b43d19/linked_in_profile
 
 - CCNA – Cisco Certified Network Associate (Cisco Networking Academy)
   En curso
