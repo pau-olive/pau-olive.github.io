@@ -10,12 +10,16 @@ DESCRIPCIÓN PROFESIONAL
 =====================================
 Técnico en Sistemas Informáticos especializado en cloud e inteligencia artificial,
 actualmente en ARKOS desplegando infraestructura en la nube e integrando IA en
-procesos internos. Experiencia previa en entornos IT profesionales y eventos
+procesos internos, y cursando el Máster FP en Inteligencia Artificial y Big Data
+en Monlau. Experiencia previa en entornos IT profesionales y eventos
 tecnológicos de gran escala, con foco en sistemas, automatización y ciberseguridad.
 
 =====================================
 FORMACIÓN ACADÉMICA
 =====================================
+- Sept 2026 - Actualidad: Máster FP en Inteligencia Artificial y Big Data (Monlau)
+  Especialización en IA, machine learning y Big Data (605 h, 36 ECTS). En curso.
+
 - Sept 2025 - Jun 2026: CFGS Admin. Sistemas Informáticos + Ciberseguridad (Escuela CEV)
   Segundo año del ciclo, con especialización en Ciberseguridad.
 
